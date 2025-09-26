@@ -1,0 +1,9 @@
+1.1
+    -The five classes are: Nurses, Drugs, Equipment, Wards and OR.
+
+1.2
+    The Doctor attributes are: ID, Name, Specialty, and Availablity.
+    Doctor Behaviours: getAvailablity and getPaged.
+
+    Patient attributes: Patient ID (pt_id), Name, Ward, Illness, Condition.
+    Patient Behaviors: getCondition and getVitals.
